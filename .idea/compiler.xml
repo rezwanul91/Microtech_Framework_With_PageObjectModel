@@ -6,9 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="class30_SkyItSchool_part4_Cucumber_Runner" />
         <module name="list_item_for_bestBuy" />
-        <module name="class43_SkyITSchool_FrameWork_with_PageObjectModel" />
         <module name="hotels_automation" />
+        <module name="class30_SkyItSchool_Part4" />
+        <module name="class23_Cucumber" />
+        <module name="class43_SkyITSchool_FrameWork_with_PageObjectModel" />
         <module name="salesforce_login" />
       </profile>
     </annotationProcessing>
